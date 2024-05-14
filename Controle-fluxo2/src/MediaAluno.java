@@ -1,4 +1,4 @@
-public class App {
+public class MediaAluno {
     public static void main(String[] args) throws Exception {
          
             double nota1 = 7.00;
